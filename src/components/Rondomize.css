@@ -1,0 +1,30 @@
+.red {
+  background-color: #ff1a1a;
+}
+
+.green {
+  background-color: #19ee19;
+}
+
+.yellow {
+  background-color: #c9c900;
+}
+
+.orange {
+  background-color: #ff9900;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 0 10px;
+  border: none;
+  border-radius: 2px;
+  color: #fff;
+}
+
+div {
+  text-align: center;
+  width: 100%;
+  margin: 3rem auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
